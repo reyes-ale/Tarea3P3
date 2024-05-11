@@ -1,0 +1,5 @@
+﻿  ejercicio_2.cpp
+C:\Users\aleja\OneDrive\Documents\ejercicio_2\ejercicio_2.cpp(11,24): error C2065: 'i': identificador no declarado
+C:\Users\aleja\OneDrive\Documents\ejercicio_2\ejercicio_2.cpp(12,23): error C2065: 'i': identificador no declarado
+C:\Users\aleja\OneDrive\Documents\ejercicio_2\ejercicio_2.cpp(23,23): error C2065: 'i': identificador no declarado
+C:\Users\aleja\OneDrive\Documents\ejercicio_2\ejercicio_2.cpp(24,41): error C2065: 'i': identificador no declarado
